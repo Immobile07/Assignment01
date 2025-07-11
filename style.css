@@ -168,12 +168,30 @@
     padding-left: 2%;
     padding-top: 3%;
     height: 243px;
-    width: 367px;
+    width: 330px;
     background-color: white;
     border-radius: 10px;
     border: #9a99a9;
     
 }
+.part3s2{
+    display: flex;
+    justify-content: space-evenly;
+}
 .avt{
+    border-radius: 50%;
+    
+}
+.botttom{
+    display: flex;
 
 }
+.rvr{
+    font-size: 16px;
+    color: gray;
+}
+.dt{
+    font-size: 16px;
+    color: rgba(128, 128, 128, 0.633);
+}
+
