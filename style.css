@@ -1,7 +1,7 @@
 *{
     margin: 0;
 }
-.btn1:hover{opacity: 0.5;}
+.btn1:hover{background-color: teal;}
 .logo{
      font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
@@ -61,7 +61,7 @@
     opacity: 1;
 }
 .btn2:hover{
-    opacity: 0.5;
+    background-color: teal;
 }
 .part1{
     margin-top: 116px;
@@ -212,5 +212,54 @@
   font-weight: 700;
   font-size: 50px;
 }
+.part5{
+    height: 623px;
+    width: 1140px;
+margin-top: 240px;
+    margin-left: 20%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(232, 248, 255, 0.714);
+}
+.descfrm{
+    margin-top: 200px;
+}
+.descripfrm{
+font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-size: 98px;
+}
+.frm{
+    margin-top: 8%;
+    margin-right: 5%;
+}
+.mails{
+    width: 420px;
+    height: 50px;
+    border-radius: 10px;
+    border-color: white;
+    border-style: none;
+}
+textarea{
+    resize: none;
+}
+.btn3{
+    margin-left:30% ;
+    width: 178px;
+    height: 48px;
+    background-color:#4E47FF;
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+    color: white;
+    border-radius: 10px;
+    border:0px;
+    transition: 1s;
+    opacity: 1;
+}
+.btn3:hover{
 
-
+    background-color: teal;
+}
