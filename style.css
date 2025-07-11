@@ -232,7 +232,7 @@ font-family: "Raleway", sans-serif;
   font-size: 98px;
 }
 .frm{
-    margin-top: 8%;
+    margin-top: 6%;
     margin-right: 5%;
 }
 .mails{
@@ -262,4 +262,30 @@ textarea{
 .btn3:hover{
 
     background-color: teal;
+}
+.part6{
+    height: 623px;
+    width: 1140px;
+margin-top: 50px;
+text-align: center;
+margin-left: 17%;
+}
+.lglast{
+    padding-top: 10%;
+     font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 100px;
+  font-weight: 800;
+  font-style: normal;
+    margin-left: 147px;
+    margin-top:55px;
+    color:#4E47FF;
+}
+.lnk3{
+    margin-left:7.5%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    
 }
