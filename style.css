@@ -182,7 +182,7 @@
 }
 .avt{
     border-radius: 50%;
-    
+    width: auto;
 }
 .botttom{
     display: flex;
